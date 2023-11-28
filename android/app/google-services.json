@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291209610133",
+    "project_id": "cris-95438",
+    "storage_bucket": "cris-95438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291209610133:android:ee80e5f52d66a9ed8bec9c",
+        "android_client_info": {
+          "package_name": "com.example.cris2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291209610133-dcmt0po4nnq4m7cqqd4fmig53rba3s2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cris2",
+            "certificate_hash": "5949adb8cc282e167743ace7ddd6111449ccec97"
+          }
+        },
+        {
+          "client_id": "291209610133-rqqv3ot1kv4boo5m3floe57e1pfv4o99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmiBxHO7LQ1uG8Y_wbzMkR-CuWKIzpUlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291209610133-rqqv3ot1kv4boo5m3floe57e1pfv4o99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
